@@ -44,6 +44,8 @@ This analysis identifies the profitability of each course by comparing revenue g
 By identifying the most profitable courses, managers can allocate resources more effectively and implement appropriate pricing strategies. This insight also supports strategic decisions regarding which courses should be expanded, maintained, or potentially discontinued.
 Evaluating course profitability helps optimize the organization’s course portfolio and improve overall financial performance.
 
+![3  Revenue Generated](https://github.com/user-attachments/assets/b75e719c-46b4-4d42-a087-0373da937159)
+
 **Conversion Rate Analysis**
 This analysis measures the conversion rate from inquiries to enrolled customers for each course. The conversion rate provides insight into how effectively customer inquiries are converted into actual course registrations.
 This information allows managers to evaluate the effectiveness of marketing campaigns and inquiry follow-up processes. Courses with higher conversion rates indicate strong customer interest and effective engagement, while lower conversion rates may signal opportunities for improving communication or marketing strategies.
