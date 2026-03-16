@@ -61,6 +61,8 @@ This analysis examines the number of instructors assigned to each course. Unders
 Courses with fewer instructors may require additional staffing to maintain teaching quality, while courses with higher instructor availability may allow for better scheduling flexibility.
 This insight supports effective human resource planning and ensures consistent course delivery quality.
 
+![Image](https://github.com/user-attachments/assets/2cb92b61-fa7f-49c8-98dc-c40d6bfcaa08)
+
 **Resource Utilization Analysis**
 The resource utilization rate measures how effectively instructor hours are used in relation to course demand. This metric compares the number of instructor hours allocated to each course with the level of customer interest and enrollment.
 Courses with high utilization indicate efficient use of instructor resources, while low utilization may suggest that instructor time is underused.
