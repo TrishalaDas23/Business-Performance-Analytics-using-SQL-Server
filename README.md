@@ -68,6 +68,8 @@ The resource utilization rate measures how effectively instructor hours are used
 Courses with high utilization indicate efficient use of instructor resources, while low utilization may suggest that instructor time is underused.
 This analysis helps managers optimize instructor scheduling, adjust course offerings when necessary, and improve the overall efficiency of resource allocation.
 
+![Image](https://github.com/user-attachments/assets/b707c56a-c612-4259-a6ce-dd0e2e0191e7)
+
 **Customer Churn Monitoring**
 This analysis tracks customers who are no longer active with the organization by updating their status to “No.” Maintaining accurate customer status helps the company better understand customer retention and churn patterns.
 Identifying customers who leave the company allows managers to analyze possible reasons for disengagement and develop retention strategies. It also ensures that marketing efforts and communications focus primarily on active customers.
