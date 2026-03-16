@@ -30,6 +30,7 @@ The database structure ensures accurate and well-organized data storage. This en
 This analysis evaluates the cost associated with each course and identifies the most and least expensive programs. Understanding course costs allows managers to monitor budget allocation and ensure that financial resources are used efficiently.
 By identifying high-cost courses, management can review operational expenses and adjust pricing strategies if necessary. Similarly, recognizing lower-cost courses helps determine opportunities where profit margins can potentially be increased.
 This insight supports better budget planning and cost control while ensuring that course offerings remain financially sustainable.
+
 ![1  Course Cost Analysis](https://github.com/user-attachments/assets/69f16ee5-da6a-4e27-854f-6015b6eee0a2)
 
 **Course Demand Analysis**
@@ -45,6 +46,8 @@ By identifying the most profitable courses, managers can allocate resources more
 Evaluating course profitability helps optimize the organization’s course portfolio and improve overall financial performance.
 
 ![3  Revenue Generated](https://github.com/user-attachments/assets/b75e719c-46b4-4d42-a087-0373da937159)
+
+![Image](https://github.com/user-attachments/assets/d09207a3-afb3-454c-bb7d-e2ced7e9948c)
 
 **Conversion Rate Analysis**
 This analysis measures the conversion rate from inquiries to enrolled customers for each course. The conversion rate provides insight into how effectively customer inquiries are converted into actual course registrations.
