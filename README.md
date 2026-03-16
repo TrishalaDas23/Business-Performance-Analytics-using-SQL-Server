@@ -54,6 +54,8 @@ This analysis measures the conversion rate from inquiries to enrolled customers 
 This information allows managers to evaluate the effectiveness of marketing campaigns and inquiry follow-up processes. Courses with higher conversion rates indicate strong customer interest and effective engagement, while lower conversion rates may signal opportunities for improving communication or marketing strategies.
 These insights help optimize customer acquisition efforts and improve overall enrollment rates.
 
+![Image](https://github.com/user-attachments/assets/5f5edfcc-f1ae-4e9a-a16d-3e92c75fd8e5)
+
 **Instructor Allocation Across Courses**
 This analysis examines the number of instructors assigned to each course. Understanding instructor distribution helps managers ensure that courses are adequately staffed and that instructor workloads remain balanced.
 Courses with fewer instructors may require additional staffing to maintain teaching quality, while courses with higher instructor availability may allow for better scheduling flexibility.
