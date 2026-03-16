@@ -82,4 +82,5 @@ The inquiry management system categorizes customer inquiries into three statuses
 By clearly monitoring inquiry status, managers can ensure that customer requests are addressed in a timely manner and that no inquiries are overlooked. It also helps prioritize follow-ups and improve response efficiency.
 This structured tracking system enhances operational organization and strengthens customer service management.
 
+![Image](https://github.com/user-attachments/assets/c41b0801-175f-48e2-8309-56e8638dcf5a)
 
