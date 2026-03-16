@@ -32,6 +32,8 @@ This analysis ranks courses based on the number of inquiries received from poten
 By identifying courses with the highest inquiry volumes, managers can focus marketing efforts and promotional campaigns on programs that attract strong customer interest. It also helps identify courses with lower demand that may require improved marketing strategies or repositioning.
 Understanding course demand helps the organization align its offerings with market needs and prioritize high-interest training programs.
 
+![Image](https://github.com/user-attachments/assets/1869d652-3d24-43e1-8505-416a21795f4b)
+
 ## Course Profitability Analysis
 This analysis identifies the profitability of each course by comparing revenue generated against associated costs.
 By identifying the most profitable courses, managers can allocate resources more effectively and implement appropriate pricing strategies. This insight also supports strategic decisions regarding which courses should be expanded, maintained, or potentially discontinued.
