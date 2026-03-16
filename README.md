@@ -30,6 +30,7 @@ The database structure ensures accurate and well-organized data storage. This en
 This analysis evaluates the cost associated with each course and identifies the most and least expensive programs. Understanding course costs allows managers to monitor budget allocation and ensure that financial resources are used efficiently.
 By identifying high-cost courses, management can review operational expenses and adjust pricing strategies if necessary. Similarly, recognizing lower-cost courses helps determine opportunities where profit margins can potentially be increased.
 This insight supports better budget planning and cost control while ensuring that course offerings remain financially sustainable.
+![1  Course Cost Analysis](https://github.com/user-attachments/assets/69f16ee5-da6a-4e27-854f-6015b6eee0a2)
 
 **Course Demand Analysis**
 This analysis ranks courses based on the number of inquiries received from potential customers. The number of inquiries serves as an indicator of market interest and demand for each course.
