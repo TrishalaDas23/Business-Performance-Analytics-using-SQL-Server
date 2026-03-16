@@ -74,7 +74,9 @@ This analysis helps managers optimize instructor scheduling, adjust course offer
 This analysis tracks customers who are no longer active with the organization by updating their status to “No.” Maintaining accurate customer status helps the company better understand customer retention and churn patterns.
 Identifying customers who leave the company allows managers to analyze possible reasons for disengagement and develop retention strategies. It also ensures that marketing efforts and communications focus primarily on active customers.
 This insight improves customer relationship management and supports more effective business planning.
- 
+
+![Image](https://github.com/user-attachments/assets/d9137faf-ad77-439a-ba7f-44baba5061e7)
+
 **Inquiry Status Tracking for Operational Efficiency**
 The inquiry management system categorizes customer inquiries into three statuses: Pending, In Progress, and Completed. This classification allows the organization to track the progress of each inquiry throughout the customer engagement process.
 By clearly monitoring inquiry status, managers can ensure that customer requests are addressed in a timely manner and that no inquiries are overlooked. It also helps prioritize follow-ups and improve response efficiency.
